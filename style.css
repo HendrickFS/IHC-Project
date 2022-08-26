@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(41, 41, 41);
+}
+#top{
+    background-color: rgb(255, 217, 0);
+    width: 100%;
+    height: 10%;
+    display: flex;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#links{
+    position: relative;
+    left: 60%;
+    display: flex;
+}
+#anchor{
+    color: rgb(54, 54, 54);
+    font-size: 20px;
+    margin: 20px;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#anchor:hover{
+    scale: 1.2;
+    color: white;
+}
