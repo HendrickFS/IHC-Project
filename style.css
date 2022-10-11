@@ -2,27 +2,80 @@ body{
     background-color: rgb(41, 41, 41);
 }
 #top{
-    background-color: rgb(255, 217, 0);
+    background-color: #ECF102;
+    outline: 5px solid rgb(41, 41, 41);
+    outline-offset: -5px;
     width: 100%;
     height: 10%;
     display: flex;
     position: absolute;
+    align-items: right;
+    justify-content: right;
     top: 0px;
     left: 0px;
+    position: fixed;
+}
+#logo{
+    width: 20%;
+    height: 90%;
+    position: absolute;
+    top: 5px;
+    left: 50px;
+    filter: brightness(0);
 }
 #links{
-    position: relative;
-    left: 60%;
     display: flex;
 }
 #anchor{
-    color: rgb(54, 54, 54);
-    font-size: 20px;
+    color: rgb(41, 41, 41);
+    font-size: 32px;
     margin: 20px;
     text-decoration: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #anchor:hover{
     scale: 1.2;
-    color: white;
+    color: rgb(133, 133, 133);
+}
+
+#about{
+    background-color: rgb(41, 41, 41);
+    height: 800px;
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#conceptVideo{
+    background-color: #ECF102;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#figma{
+    background-color: rgb(41, 41, 41);
+    height: 800px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#artefacts{
+    background-color: #ECF102;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#team{
+    background-color: rgb(41, 41, 41);
+    height: 800px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
