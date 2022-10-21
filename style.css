@@ -31,7 +31,7 @@ body{
     flex-direction: row;
 }
 
-#nome{
+#logoExtensao{
     margin-top: 55px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
@@ -57,20 +57,12 @@ body{
 }
 
 #sobrenos{
-    margin-top: 95px;    
-    height: 860px;
+    margin-top: 0px;    
+    height: 600px;
     width: 100%;
     display: flex;
+    margin-bottom: 80px;
 }  
-
-#backimage{
-    height: 100%;
-    width: 100%;
-    display: flex;
-    margin-top: 0px;
-    background-image: url("mapa.png");
-    opacity: 0.6;
-}
 
 #descricao{
     height: 550px;
@@ -80,16 +72,16 @@ body{
     text-align: center;
     position: absolute;
     flex-direction: column;
+    gap: 20px;
 }
 
 #titulo{
     font-size: 4.2rem;
-    margin: 0px;
 }
 
 #subtitulo{
+    margin-top: 20px;
     font-size: 2.5rem;
-    margin: 0px 0px 26px;
 }
 
 #texto{
@@ -110,7 +102,7 @@ video{
 }
 
 #projeto{
-    height: 900px;
+    height: 750px;
     width: 100%;
     color: black;
     background-color: #fcff31;
@@ -151,22 +143,42 @@ button:hover{
 }
 
 #equipe{
-    height: 900px;
+    height: 800px;
     width: 100%;
     background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-around;
 }
-
-#cabeca{
-    position: absolute;
-    width: 30%;
-    margin-top: 10%;
-    margin-left: 35%;
-    padding-bottom: 30px;
+#pessoa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#foto{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+#nome{
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cargo{
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #participantes{
-    font-size: 1.5rem;
-    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 100px;
 }
 
 #rodape{

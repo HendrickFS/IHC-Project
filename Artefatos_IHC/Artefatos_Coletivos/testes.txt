@@ -1,0 +1,35 @@
+Primeiro cenário:
+
+    Objetivo: Você está no bloco H e deseja chegar na sala B101 usando o menu direto do aplicativo.
+
+        Passos:
+            - Acesse o menu pelo icone no canto superior esquerdo;
+            - Acesse a aba de salas e selecione a sala desejada;
+            - Veja os horários e confirme se a sala está aberta;
+            - Aperte o botão para ir para seu Objetivo e veja a rota.
+
+Segundo cenário:
+
+    Objetivo: Você deseja ver os horários de disponibilidade do DAFIS sabendo que fica no bloco H, quer fazer isso acessando o bloco H pelo menu;
+              Apenas isso, não deseja ir para lá no momento.
+
+        Passos:
+            - Acesse o menu pelo icone no canto superior esquerdo;
+            - Acesse a aba de salas e selecione o bloco desejado;
+            - Vizualize o piso superior do bloco, que pode ser mudado pelo botão no canto superior direito;
+            - Encontre o departamento/sala desejada e o acesse clicando no seu nome;
+            - Vizualize os horários.
+
+Terceiro cenário:
+
+    Objetivo: Você está no bloco D e deseja ir para o DAFIS acessando o bloco pelo mapa;
+              Chegando lá você deseja avaliar o aplicativo.
+
+        Passos: 
+            - Clique no bloco H(pois você sabe que o DAFIS é lá) diretamente pelo mapa;
+            - Procure no piso superior o DAFIS e clique nele;
+            - Veja as informações do departamento e clique para ver disponibilidade;
+            - Verifique a disponilidade e aperte para ir;
+            - Após chegar no destino clique no botão de Cheguei;
+            - Veja as recomendações e avalie o aplicativo clicando nas estrelas apresentadas na parte inferior;
+            
