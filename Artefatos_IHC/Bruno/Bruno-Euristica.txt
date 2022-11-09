@@ -1,0 +1,14 @@
+Cadastro: 
+- Falta de como seria uma área/tela pro professor (para matéria(s));
+
+Tela de boas vindas:
+- Deixar mais agradavél visiualmente;
+
+Selecionar professor:
+- Deixar uma área de pesquisa, para poder procurar um professor em específico;
+
+Geral:
+- Uma Tela só para mostrar os dados de cadastro e poder altera-las;
+- Poder favoritar os professores;
+- Chat com o professor;
+- Uma tela mostrando como estaria os horários agendados para os professores;
