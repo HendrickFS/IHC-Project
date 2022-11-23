@@ -1,0 +1,34 @@
+-Estudante do primeiro ano do técnico:
+    - Falta de referências em relação ao mapa;
+    - Falta de noção em relação aos espaços dentro dos blocos no mapa;
+    - Falta de design nas telas de informações;
+    - Possível atalho para caso o usuário não precise ver a disponibilidade das salas;
+    - Mais informações sobre os departamentos.
+
+- Professor em seu primeiro ano no campus:
+    - Recomendação de aumentar o foco na parte de mapas;
+    - Utilização de um indicador de onde o usuário está na rota durante o percurso;
+    - Deixar os menus como segundo plano.
+
+- Aluno veterano no curso de Ciências da Computação:
+    - Melhorar a área de click nos botões do menu;
+    - Possibilitar a rolagem do menu para ver mais botões e ocupar menos espaço;
+    - Menu poderia ser mais agradável.
+
+- Estudante do primeiro período do curso de Ciências da Computação:
+    - Deixar todo o menu acessivél para dropbox;
+    - Referenciar melhor os andares inferiores e superiores;
+    - Deixar o mapa mais realístico;
+    - Deixar o menu mais "rápido";
+    - Complementar os blocos;
+    - Área do menu, planta desnecessária por causa do botão mapa;
+    - Deixar o menu com mais detalhes;
+    - Deixar o mapa movél, com zoom;
+    - Mostrar a planta da faculdade completa.
+
+- Visitante:
+    - Deixar as telas mais dinâmicas;
+    - Cenário de background confuso;
+    - Retirar o botão salas e colocar quando clicar no bloco selecionado;
+    - Aplicativo ficou confuso enquanto navegava;
+    - Aumentar o botão do mapa.
